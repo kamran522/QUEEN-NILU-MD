@@ -51,7 +51,7 @@ global.FOOTER = 'K A M I 2023 '
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
-global.PREFIX = '' // Bot Prefix
+global.PREFIX = '.' // Bot Prefix
 
 global.CAPTION = 'K A M I  © 2023' // Caption
 
